@@ -1,5 +1,5 @@
 name: pencil
-version: 0.0.2
+version: 0.0.3
 description: The Practically Effortless Canvas Interface Library.
 environment:
   sdk: '>=1.0.0 <2.0.0'
